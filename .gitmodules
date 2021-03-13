@@ -1,0 +1,3 @@
+[submodule "gtkmm"]
+	path = gtkmm
+	url = git@github.com:GNOME/gtkmm.git
